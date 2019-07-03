@@ -6,4 +6,6 @@ This repo is the way for my to practise pull request
 --jinwei14*2
 
 --jinwei14 Pull Request from non collaborator
+
+--Jinwei14 pull request from creator
 .
